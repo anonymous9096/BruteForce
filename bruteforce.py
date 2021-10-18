@@ -3,7 +3,7 @@
 import random
 import pyautogui
 
-all_input = "qwertyuiopasdfghjklzxcvbnm1234567890QWERTTYUIOPASDFGHJKLZXCVBNM"
+all_input = "qwertyuiopasdfghjklzxcvbnm1234567890QWERTTYUIOPASDFGHJKLZXCVBNM!@#$%^&*()"
 
 all_input_list = list(all_input)
 
